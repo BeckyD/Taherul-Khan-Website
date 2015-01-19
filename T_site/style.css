@@ -22,7 +22,7 @@ color: #5a5a5a;
 }
 
 .feature {
-  background-image:url('file:///C:/Users/Taherul/Desktop/T_site/background.jpg');
+  background-image:url('./images/background.jpg');
   height: 550px;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -36,7 +36,7 @@ letter-spacing: 8px;
   text-align: center;
   padding-top: 180px;
   font-family: 'Abel', sans-serif;
-  text-shadow: 3px 3px 3px #383838;
+  text-shadow: -4px 4px 0 #767676;
   text-transform: uppercase; 
   font-weight: bold;
   margin-bottom: 0;
@@ -112,7 +112,7 @@ font-size: 20px;
 
 
 .cv {
-background-image:url('file:///C:/Users/Taherul/Desktop/T_site/background.jpg');
+background-image:url('./images/background.jpg');
   height: 1750px;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -179,7 +179,7 @@ margin: auto;
  }
  
  .contact {
-background-image:url('file:///C:/Users/Taherul/Desktop/T_site/background.jpg');
+background-image:url('./images/background.jpg');
 height: 620px;
 background-repeat: no-repeat;
 background-attachment: fixed;
